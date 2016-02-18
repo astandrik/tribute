@@ -1,0 +1,25 @@
+{
+  "name": "tribute",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Anton Standrik"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/astandrik/tribute",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0"
+  }
+}
