@@ -1,0 +1,19 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/astandrik/tribute.git"
+  },
+  "author": "Anton Standrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astandrik/tribute/issues"
+  },
+  "homepage": "https://github.com/astandrik/tribute#readme"
+}
